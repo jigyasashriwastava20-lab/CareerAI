@@ -1,2 +1,2 @@
 # CareerAI
-file:///Users/jigyasashrivastava/Downloads/careerai-index_2.html
+http://127.0.0.1:5500/CareerAI.html
